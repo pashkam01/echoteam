@@ -20,26 +20,6 @@ Frontend: Next.js (React-based)\
 Backend: Next.js\
 Database: PostgreSQL (Supabase)
 
-
-## Team
-
-Team details follow
-
-### 495 Project Leader
-
-Tyler Harriman
-
-### 394 Students - Sr. Developers
-
-Abdinasir Aidrus\
-Chanel Elmurr\
-Paul Moskalyuk
-
-### 294 Students - Jr. Developers
-
-Stanley Pierre-Canel\
-Chris Stickney
-
 ## Set Up
 
 Details on how to set up the project follow.
